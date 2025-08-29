@@ -1,0 +1,12 @@
+ShuffledNumbers/
+ └─ app/
+     └─ src/
+         └─ main/
+             ├─ AndroidManifest.xml
+             ├─ java/com/example/shufflednumbers/MainActivity.kt
+             └─ res/layout/activity_main.xml
+ └─ build.gradle (app-level)
+ └─ build.gradle (project-level)
+ └─ settings.gradle
+ └─ gradlew, gradlew.bat
+ └─ gradle/wrapper/gradle-wrapper.properties
